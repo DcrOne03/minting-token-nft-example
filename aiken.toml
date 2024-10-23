@@ -1,0 +1,14 @@
+name = "aiken-lang/minting-token-nft"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'aiken-lang/minting-token-nft'"
+
+[repository]
+user = "aiken-lang"
+project = "minting-token-nft"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v2.1.0"
+source = "github"
